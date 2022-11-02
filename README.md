@@ -1,85 +1,37 @@
-Zhen Huan
-Zhen Huan
 
-Department of Mathematics
-University of Illinois at Champaign-Urbana
-1409 W. Green Street, Urbana, IL 61801
+## Meng Zhao
 
-Office: 155 Altgeld Hall
-Email:  huan2(at)illinois(dot)edu  
+Center for Mathematical Sciences, (the Wuhan math center)
 
-Personal information
+Huazhong University of Science and Technology
 
-I am a graduate student at the University of Illinois at Urbana-Champaign working with Charles Rezk. My dissertation defense was on May 5th, 2016.
+1037 Luoyu Road,
 
-I completed my BS in mathematics at Peking University.
+Wuhan, China
 
-Here is my CV.
-Research
-
-My research interests are in algebraic topology, homotopy theory and related field. The main subject I'm working on is quasi-elliptic cohomology.
-
-Here is my research statement.
-
-Here is a draft of my dissertation. My work is on several topics:
-
-We introduce quasi-elliptic cohomology, construct its complete power operation, and prove the Tate K-theory of symmetric groups modulo a certain transfer ideal classify the finite subgroups of the Tate curve.
-
-We construct an orthogonal G-spectrum weakly representing quasi-elliptic cohomology, which cannot arise from an orthogonal spectrum.
-
-We construct a new global homotopy theory which contains the orthogonal G-spectrum for quasi-elliptic cohomology.
-Preprint
-
-Quasi-Elliptic Cohomology and its Power Operations. Submitted for publication.
-
-Quasi-Elliptic Cohomology and its Spectra.
-
-Almost Global Homotopy Theory. In preparation.
-
-Invited Talks
-
-Parallel Session, Conference "Homotopy theory: tools and applications", University of Illinois at Urbana-Champaign, Quasi-elliptic Cohomology, July 17, 2017
-
-Informal Session, Conference on invertible objects and duality in derived algebraic geometry and homotopy theory, the University of Regensburg, Germany. Quasi-elliptic Cohomology, April 3, 2017.
-
-AMS Special Session on Homotopy Theory, Bloomington, IN. Quasi-elliptic Cohomology, April 1, 2017.
-
-AMS Special Session on Topology and Arithmetic, Minneapolis, MN. Quasi-elliptic Cohomology, October 30, 2016.
-
-University of Chicago Algebraic Topology Seminar, Quasi-elliptic cohomology, November 25, 2014.
-
-Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24, 2014.
-
-Teaching
-
-2016 Summer: teaching assistant for Netmath MATH 231-Calculus II.
-
-2016 Spring: the main instructor of MATH 124-Finite Mathematics.
-
-2015 Fall: the main instructor of MATH 124-Finite Mathematics.
-
-2015 Spring: the main instructor of MATH 124-Finite Mathematics.
-
-2013 Fall: the main instructor of MATH 119-Ideas in Geometry.
+Email: mzhao9@hust.edu.cn
 
 
-2016 Fall: led discussion session for MATH 221-Calculus I.
+## Research
 
-2012 Fall: led discussion session for MATH 231-Calculus II.
-
-2012 Spring: led discussion session for MATH 234-Calculus for Business I.
-
-2011 Fall: led discussion session for MATH 231-Calculus II.
+My research interests are in numerical analysis, scientific computing (sequential and parallel), methods for interface problems in materials and fluids, Hele-Shaw flow, computational fluid mechanics, and tumor growth. 
 
 
-2012 Spring, 2013 Spring, 2014 Spring, 2014 Summer, 2014 Fall, 2015 Summer, 2016 Summer, 2017 Spring: I'm a research assistant.
 
-Here is my teaching statement.
+## Personal information
 
-Useful links
+Currently I'm an associate professor at [Center for Mathematical Sciences at Huazhong University of Science and Technology](http://mathcenter.hust.edu.cn/). I received my PhD from the [Illinois Institute of Technology](https://www.iit.edu/applied-math) on 2017. My advisor was Professor [Shuwang Li](http://www.math.iit.edu/~sli/Site/Welcome.html). From 2017 to 2021, I was a postdoc in the [Department of Mathematics](https://www.math.uci.edu) at Univerisity of Califronia Irvine.
 
-    The book Global Homotopy Theory by Stefan Schwede.
-    UIUC Topology Seminar
-    Midwest Topology Seminar
-    A List of Conferences in Topology
+
+## Publication
+
+1. M. Zhao, A. Belmonte, S. Li, X. Li, and J. Lowengrub, Nonlinear simulations of elastic fingering in a Hele-Shaw cell (2015), Journal of Computational and Applied Mathematics.
+2. M. Zhao, W. Ying, J. Lowengrub, and S. Li, An efficient adaptive rescaling scheme for computing moving interface problems (2017), Communication in Computational Physics.
+3. M. Zhao, X. Li, W. Ying, A. Belmonte, J. Lowengrub, and S. Li (2018), Computation of a shrinking interface in a Hele-Shaw cell, SIAM Journal on Scientific Computing.
+4. M. Zhao, G. Salter, V. Voller, and S. Li (2019), Can the growth of deltaic shoreline be unstable?, Earth Surface Dynamics.
+5. M. Zhao, G. Salter, V. Voller, and S. Li (2020), Nonlinear simulation of shape-preserving delta growth, Journal of Computational and Applied Mathematics.
+6. M. Zhao, Z. Niroobakhsh, J. Lowengrub, and S. Li (2020), Nonlinear limiting dynamics of a shrinking interface in a Hele-Shaw cell，Journal of Fluid Mechanics.
+7. M. Zhao, P. Anjos, J. Lowengrub, and S. Li (2020), Pattern formation of the three-layer Saffman-Taylor problem in a radial Hele-Shaw cell, Physical Review Fluids.
+8. P. Anjos, M. Zhao, J. Lowengrub, W. Bao, and S. Li (2021), Controlling  ngering instabilities in Hele-Shaw flows in the presence of wetting film effects, Physical Review E.
+9. P. Anjos, M. Zhao, J. Lowengrub, and S. Li (2022), Electrically controlled self-similar evolution of viscous fingering patterns, Physical Review Fluids.
 
