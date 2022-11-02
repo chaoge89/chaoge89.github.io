@@ -1,8 +1,7 @@
 
 ## Meng Zhao
 
-Center for Mathematical Sciences, (the Wuhan math center)
-
+Center for Mathematical Sciences,
 Huazhong University of Science and Technology
 
 1037 Luoyu Road,
