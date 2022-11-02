@@ -32,6 +32,6 @@ Currently I'm an associate professor at [Center for Mathematical Sciences at Hua
 5. M. Zhao, G. Salter, V. Voller, and S. Li (2020), Nonlinear simulation of shape-preserving delta growth, Journal of Computational and Applied Mathematics.
 6. M. Zhao, Z. Niroobakhsh, J. Lowengrub, and S. Li (2020), Nonlinear limiting dynamics of a shrinking interface in a Hele-Shaw cell，Journal of Fluid Mechanics.
 7. M. Zhao, P. Anjos, J. Lowengrub, and S. Li (2020), Pattern formation of the three-layer Saffman-Taylor problem in a radial Hele-Shaw cell, Physical Review Fluids.
-8. P. Anjos, M. Zhao, J. Lowengrub, W. Bao, and S. Li (2021), Controlling  ngering instabilities in Hele-Shaw flows in the presence of wetting film effects, Physical Review E.
+8. P. Anjos, M. Zhao, J. Lowengrub, W. Bao, and S. Li (2021), Controlling fingering instabilities in Hele-Shaw flows in the presence of wetting film effects, Physical Review E.
 9. P. Anjos, M. Zhao, J. Lowengrub, and S. Li (2022), Electrically controlled self-similar evolution of viscous fingering patterns, Physical Review Fluids.
 
