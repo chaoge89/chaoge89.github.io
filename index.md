@@ -20,7 +20,7 @@ My research interests are in numerical analysis, scientific computing (sequentia
 
 ## Personal information
 
-Currently I'm an associate professor at [Center for Mathematical Sciences at Huazhong University of Science and Technology](http://mathcenter.hust.edu.cn/). I received my PhD from the [Illinois Institute of Technology](https://www.iit.edu/applied-math) on 2017. My advisor was Professor [Shuwang Li](http://www.math.iit.edu/~sli/Site/Welcome.html). From 2017 to 2021, I was a postdoc in the [Department of Mathematics](https://www.math.uci.edu) at Univerisity of California Irvine.
+Currently I'm an associate professor at [Center for Mathematical Sciences at Huazhong University of Science and Technology](http://mathcenter.hust.edu.cn/). I received my PhD from the [Illinois Institute of Technology](https://www.iit.edu/applied-math) on 2017. My advisor was Professor [Shuwang Li](http://www.math.iit.edu/~sli/Site/Welcome.html). From 2017 to 2021, I was a postdoc in the [Department of Mathematics](https://www.math.uci.edu) at University of California Irvine.
 
 
 ## Publication
