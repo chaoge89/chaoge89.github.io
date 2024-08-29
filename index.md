@@ -34,5 +34,9 @@ Currently I'm an associate professor at [Center for Mathematical Sciences at Hua
 7. M. Zhao, P. Anjos, J. Lowengrub, and S. Li (2020), Pattern formation of the three-layer Saffman-Taylor problem in a radial Hele-Shaw cell, Physical Review Fluids.
 8. P. Anjos, M. Zhao, J. Lowengrub, W. Bao, and S. Li (2021), Controlling fingering instabilities in Hele-Shaw flows in the presence of wetting film effects, Physical Review E.
 9. P. Anjos, M. Zhao, J. Lowengrub, and S. Li (2022), Electrically controlled self-similar evolution of viscous fingering patterns, Physical Review Fluids.
+10. M. Zhao, P. Anjos, J. Lowengrub, W. Ying and S. Li (2023), Numerical Study on Viscous Fingering Using Electric Fields in a Hele-Shaw Cell, Communication in Computational Physics.
+11. W. Xiao, K Liu*, J. Lowengrub, S. Li, and M. Zhao* (2023), Three-dimensional numerical study on wrinkling of vesicles in elongation flow based on the immersed boundary method, Physical Review E.
+12. W. Xiao, T. Gao*, K. Liu, J. Duan, and M. Zhao* (2024), Fourier neural operator based fluid–structure interaction for predicting the vesicle dynamics, Physica D.
+13. W. Xiao, L. Feng, X. Yang, K. Liu*, and M. Zhao* (2024), An eigenvalue problem for self-similar patterns in Hele-Shaw flows, Physica D.
 
 
