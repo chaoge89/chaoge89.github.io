@@ -37,6 +37,7 @@ Currently I'm an associate professor at [Center for Mathematical Sciences at Hua
 11. W. Xiao, K Liu*, J. Lowengrub, S. Li, and M. Zhao* (2023), Three-dimensional numerical study on wrinkling of vesicles in elongation flow based on the immersed boundary method, Physical Review E.
 12. W. Xiao, T. Gao*, K. Liu, J. Duan, and M. Zhao* (2024), Fourier neural operator based fluid–structure interaction for predicting the vesicle dynamics, Physica D.
 13. W. Xiao, L. Feng, X. Yang, K. Liu*, and M. Zhao* (2024), An eigenvalue problem for self-similar patterns in Hele-Shaw flows, Physica D.
+14. M. Zhao*, A. Barua, J. Lowengrub, W. Ying, and S. Li (2024), A three-layer Hele-Shaw problem driven by a sink, Journal of Fluid Mechanics.
 
 
 
